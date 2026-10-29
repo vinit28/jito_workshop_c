@@ -75,6 +75,9 @@ examples and wording differ.
 - Creation: produce first-pass images, tables, or structures when a human owns the brief and review.
 - AI is most useful when the task has a clear goal, enough context, a reviewable output, and a
   meaningful measure of improvement.
+- **Judgment is the differentiator:** when AI makes drafts, images, code, and messages cheap to
+  produce, the scarce value shifts to choosing the right problem, setting a clear bar, editing
+  with taste, and deciding what deserves to be sent or built.
 
 **Real-world examples to make the value concrete**
 
@@ -101,6 +104,8 @@ will improve or that one product caused the outcome.
 - A chatbot waits for the next instruction. An agent may browse, connect apps, and take actions.
 - More capability means more permission and failure surface, not automatic better judgment.
 - Use the smallest access and simplest tool that can complete the task.
+- Cheap generation creates a review bottleneck. A fast draft that adds noise, confusion, or rework
+  is not productivity.
 
 **What to say about Muse**
 
@@ -134,6 +139,7 @@ will improve or that one product caused the outcome.
 | Unapproved action | A polished draft sent to the wrong person or an agent acting in the background | Stop before send, purchase, delete, or share; require human approval |
 | Hallucination and stale information | Confidently wrong dates, names, facts, or citations | Ask for uncertainty; verify against the source; do not use live mistakes as the only demo |
 | Bias and tone drift | Different treatment or an inappropriate tone in a generated message | Inspect assumptions, audience, and language; rewrite and review |
+| AI slop and output glut | Easy-to-produce content that is generic, repetitive, inaccurate, or unnecessary | Define the audience and quality bar first; edit for usefulness; delete weak output; keep a human decision owner |
 | Retention and third-party processing | Prompt text traveling through the product's provider chain | Show the product privacy/data controls; treat claims as product-specific and time-sensitive |
 | Access failure | No app, account, network, or supported phone | Paper prompt cards, screenshots, saved outputs, and a facilitator-led demo |
 
@@ -149,6 +155,9 @@ will improve or that one product caused the outcome.
 - **Agent permissions:** Meta describes Muse as able to connect to apps and request approval for
   sensitive actions. Ask attendees to compare “draft this email” with “read and send from my inbox.”
   The lesson is least privilege and explicit approval, even when a product has safeguards.
+- **AI slop:** Ask attendees to compare a generic five-paragraph AI announcement with a short,
+  audience-specific version that contains one clear decision and one next step. The lesson is that
+  generating more is easy; deciding what is useful is the human work.
 
 Do not grant real permissions in the workshop. Every safety demonstration must show the decision
 point, the safe choice, and what to do afterward.
@@ -181,9 +190,10 @@ access, and never treat a free or paid label as employer approval.
 5. Muse Gmail demo: synthetic message, permission review, draft, human edit, stop before send.
 6. Prompt anatomy: role, goal, context, audience, format, constraints, uncertainty.
 7. Personal task lab instructions and timer.
-8. Risk checkpoint: data, permissions, actions, output review, and bias.
-9. Workflow card: trigger → AI step → human approval → destination.
-10. 30-day plan and Monday commitment.
+8. Risk checkpoint: data, permissions, actions, output review, bias, and AI slop.
+9. Human judgment: define the quality bar, edit for usefulness, and delete weak output.
+10. Workflow card: trigger → AI step → human approval → destination.
+11. 30-day plan and Monday commitment.
 
 Create facilitator notes for every slide using the bullets above. Prepare a no-network PDF, device
 screenshots, synthetic Gmail account or mock screens, prompt cards, risk cards, and printed outputs.
