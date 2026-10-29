@@ -37,9 +37,27 @@ Use `proposal/<first-last>` branches and pull requests into `main`. Keep each PR
 folder; propose shared contract changes separately. Review another person's plan after your own
 first draft. Agents must not overwrite another contributor's work.
 
+## Using any AI tool
+
+The shared contract is plain Markdown in `AGENTS.md`. It is the single source of truth for
+contributors using Claude, Grok/Grokbot, or any other assistant. File discovery depends on the
+product and configuration, so always use the explicit prompt below.
+
+- **Repo-connected agents:** open this repository and ask the agent to read the three files named
+  below. `CLAUDE.md` also points Claude Code to the shared contract.
+- **Chat-only assistants:** upload or paste `AGENTS.md`, `docs/workshop-brief.md`, and
+  `templates/workshop-plan.md` with the prompt. A repository URL alone does not guarantee access.
+  If browsing is unavailable, mark changing tool claims unverified for a contributor to check.
+- **Saving the result:** if the assistant cannot edit files, request the complete Markdown and
+  save it in your own `contributors/<first-last>/plan.md`, then submit through the same Git workflow.
+
+Before drafting, ask the assistant to confirm the coordinator name, output path, 45-minute limit,
+phone/free-access constraint, and required safety examples. This checks that it received the contract.
+
 ## Ask your agent
 
-> Read AGENTS.md, docs/workshop-brief.md, and templates/workshop-plan.md. I am [full name].
+> Read AGENTS.md, docs/workshop-brief.md, and templates/workshop-plan.md from the repo or the
+> attached/pasted copies. If you cannot access them, tell me before drafting. I am [full name].
 > Develop my independent Track C proposal in contributors/[first-last]/plan.md. Follow the common
 > requirements, verify tools against official sources, and distinguish research from device tests.
 > Keep the plan to 1-3 pages with clearly linked optional supporting assets. Do not alter the other
