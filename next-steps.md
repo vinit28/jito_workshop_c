@@ -5,6 +5,14 @@ do not mark an item complete without evidence or an explicit coordinator decisio
 
 ## Before the next coordinator review
 
+- [ ] **Confirm event format with Sid:** resolve the notes' conflicting descriptions of two
+  sessions versus three cohorts, coordinator repeat assignments, and the ownership and handoff for
+  the possible 10-minute case-study introduction. Record the answer in `final/selection.md` before
+  consolidation. Owner: all three coordinators.
+- [ ] **Confirm coordination cadence:** agree the Wednesday 8:30 PM progress check (or replacement
+  time), Monday draft cutoff timezone, and Friday, November 6 consolidation target. Owner: all three
+  coordinators.
+
 - [ ] **Confirm Muse product and access:** verify the exact Muse from Meta app links, US availability,
   iPhone and Android setup, age/account requirements, current free limits, and Gmail connector.
   Owner: Vinit. Evidence: official links plus a device test date.
@@ -15,6 +23,8 @@ do not mark an item complete without evidence or an explicit coordinator decisio
   Aditya, Dhruv, Vinit.
 - [ ] **Review Vinit's draft:** identify missing content, timing problems, and examples to keep or
   replace. Owners: Aditya and Dhruv.
+- [ ] **Send the attendee app list:** once the core path and fallback are tested, send Sid the exact
+  app names, official links, account requirements, and what is optional. Owner: Vinit.
 
 ## Delivery assets
 

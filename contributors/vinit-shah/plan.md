@@ -5,11 +5,20 @@ Author: Vinit Shah
 Updated: October 29, 2026
 Target duration: 45 minutes
 
+**Event timing note.** The initial planning notes describe a possible 10-minute case-study
+introduction before the 45-minute workshop block. This plan covers the 45-minute block only. Confirm
+with the organizer whether coordinators own that introduction, what handoff is expected, and whether
+the event schedule actually includes it.
+
 ## 1. Position and success
 
 **Audience and promise.** Working professionals with phones, mixed AI experience, and no assumed
 paid account. They leave knowing what AI tools can help with, how to choose one, and how to improve
 one real work task safely.
+
+The meeting notes describe the audience as primarily tech-oriented but not AI-specialized. Start with
+plain-language AI basics and concrete work examples; do not assume prior exposure to agents,
+automation, or model terminology.
 
 **Hypothesis.** If attendees see a short tool map, learn a repeatable prompt pattern, and apply it
 to a sanitized version of their own task, then they will identify one useful Monday experiment and
@@ -33,8 +42,9 @@ must still work without a Gmail connection.
 
 **Send before the workshop.** Bring a charged phone and think of one repetitive task you do at work.
 Do not bring or upload confidential, personal, financial, customer, credential, or unreleased
-information. Write a sanitized version on paper. No app installation or Gmail connection is
-required for the core workshop.
+information. Write a sanitized version on paper. The team should send the final required-app list to
+the organizer after the Muse and fallback checks are complete. No app installation or Gmail
+connection is required for the core workshop until that decision is confirmed.
 
 | Tool | Role | Access and limits | Data and permission rule | Fallback and evidence |
 | --- | --- | --- | --- | --- |
@@ -210,7 +220,10 @@ screenshots, synthetic Gmail account or mock screens, prompt cards, risk cards, 
 - **Open decisions:** confirm the exact Muse product and official app link; verify mobile setup,
   Gmail connector, permissions, region, age/account requirements, and free limits; confirm room
   Wi-Fi and display; select a second phone-accessible fallback; confirm exact draft cutoff and
-  session assignments.
+session assignments; confirm whether the 10-minute case-study introduction is separate from this
+plan; resolve whether the event uses two sessions or three cohorts and whether each coordinator
+repeats the common curriculum; agree the Wednesday progress-check time and Friday consolidation
+cutoff.
 
 **Self-review:** [x] 45 minutes [x] phone/free core path [x] offline path [x] safety examples
 [x] complete prompts [x] outcome checks [x] no sensitive data [ ] Muse mobile test

@@ -14,6 +14,18 @@ changes must retain its learning outcomes and explain the tradeoff. Do not drift
 general no-code building curriculum. Use the three names above; other names in conversational
 examples do not add contributors.
 
+The initial planning meeting added these working constraints: start from a low AI baseline, keep
+the experience interactive and phone-friendly, include a 3-5 minute segment on data security,
+confidentiality, and approved versus prohibited tools, and tell the organizer which apps attendees
+should have ready. The notes also describe a possible 10-minute case-study introduction before the
+45-minute workshop block. Treat that introduction as separate until the organizer confirms who owns
+it and whether it changes the block timing.
+
+The notes contain conflicting descriptions of the delivery model (two sessions versus three
+cohorts, and whether each coordinator repeats the workshop). Do not treat those details as settled.
+The consolidated plan must record the confirmed session count, cohort assignment, repeat schedule,
+and the common handoff between any case-study introduction and the workshop.
+
 ## Required outcomes and constraints
 
 Every proposal must enable attendees to:
@@ -35,6 +47,10 @@ from optional facilitator equipment; do not assume projector or Wi-Fi availabili
 State a testable workshop hypothesis, measurable exit checks, and what would disconfirm success.
 Breadth is secondary to participants completing something useful. Recommend a small required
 tool set; place broader exploration in optional follow-up material.
+
+Each coordinator's plan must include speaker bullets for the security segment and at least one
+interactive, reproducible example. The final version must be runnable by any coordinator without
+depending on the author or on a live account connection.
 
 ## Tools and preparation
 
@@ -88,4 +104,6 @@ rehearse the same version independently before it becomes Ready.
 - Core activities work on phones/free access with explicit non-network fallbacks.
 - Prep, tool evidence, exact prompts, safety examples, and measurable exit checks are present.
 - Individual drafts are due Monday, November 2, 2026; cutoff/timezone still need agreement.
+- The team target is a consolidated draft by Friday, November 6, 2026, subject to coordinator
+  agreement and the confirmed event schedule.
 - Final agreement, rehearsal evidence, and freeze date are recorded honestly, never inferred.
