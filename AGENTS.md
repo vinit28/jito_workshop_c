@@ -21,10 +21,10 @@ should have ready. The notes also describe a possible 10-minute case-study intro
 45-minute workshop block. Treat that introduction as separate until the organizer confirms who owns
 it and whether it changes the block timing.
 
-The notes contain conflicting descriptions of the delivery model (two sessions versus three
-cohorts, and whether each coordinator repeats the workshop). Do not treat those details as settled.
-The consolidated plan must record the confirmed session count, cohort assignment, repeat schedule,
-and the common handoff between any case-study introduction and the workshop.
+The confirmed delivery model is two back-to-back sessions. Each session contains three independently
+run cohorts, using the same curriculum and materials. The consolidated plan must record the cohort
+assignments, repeat schedule, and the common handoff between any case-study introduction and the
+workshop.
 
 ## Required outcomes and constraints
 

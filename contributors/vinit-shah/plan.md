@@ -5,10 +5,10 @@ Author: Vinit Shah
 Updated: October 29, 2026
 Target duration: 45 minutes
 
-**Event timing note.** The initial planning notes describe a possible 10-minute case-study
-introduction before the 45-minute workshop block. This plan covers the 45-minute block only. Confirm
-with the organizer whether coordinators own that introduction, what handoff is expected, and whether
-the event schedule actually includes it.
+**Event timing note.** The event has two back-to-back sessions. Each session contains three
+independently run cohorts using the same 45-minute curriculum. The initial planning notes also
+describe a possible 10-minute case-study introduction before the workshop block. Confirm whether
+coordinators own that introduction and document the handoff in the consolidated plan.
 
 ## 1. Position and success
 
@@ -220,10 +220,9 @@ screenshots, synthetic Gmail account or mock screens, prompt cards, risk cards, 
 - **Open decisions:** confirm the exact Muse product and official app link; verify mobile setup,
   Gmail connector, permissions, region, age/account requirements, and free limits; confirm room
   Wi-Fi and display; select a second phone-accessible fallback; confirm exact draft cutoff and
-session assignments; confirm whether the 10-minute case-study introduction is separate from this
-plan; resolve whether the event uses two sessions or three cohorts and whether each coordinator
-repeats the common curriculum; agree the Wednesday progress-check time and Friday consolidation
-cutoff.
+session assignments across the two sessions and three cohorts; confirm whether the 10-minute
+case-study introduction is separate from this plan and document its handoff; agree the Wednesday
+progress-check time and Friday consolidation cutoff.
 
 **Self-review:** [x] 45 minutes [x] phone/free core path [x] offline path [x] safety examples
 [x] complete prompts [x] outcome checks [x] no sensitive data [ ] Muse mobile test
