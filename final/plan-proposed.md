@@ -1,3 +1,11 @@
+# SUPERSEDED, Nov 11, 2026
+
+This file is kept only as a record. It is superseded by `final/plan.md`
+(restructured plan, PR #7, revised Nov 11, 2026). Do not deliver from
+this file. It was the consolidated draft proposed in PR #4.
+
+---
+
 # Proposed consolidated Track C workshop plan
 
 Status: **Draft for 8pm review, November 4, 2026. Not approved. Not ready for delivery.**
