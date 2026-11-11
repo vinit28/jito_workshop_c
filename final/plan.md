@@ -42,9 +42,9 @@ Cut order if time slips: the "where to learn" bullet first, then the two shares 
 ## 2. Tool landscape: Dhruv (assigned, to fill in by end of day Nov 11)
 
 Dhruv to provide bullet points, not a script:
-- ChatGPT Work for agentic work on web
-- ChatGPT desktop app for agenetic work on local devices (with local files)
-- Dots + Spaces for multiplayer and work on documents and sheets
+- 1 min: ChatGPT Work for agentic work on web
+- 2 - 3 mins: ChatGPT desktop app for agenetic work on local devices (with local files)
+- 2 mins: Dots + Spaces for multiplayer and work on documents and sheets
 
 ## 3. Prompting that works: Aditya (merged in PR #6, condensed here)
 
