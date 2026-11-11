@@ -42,11 +42,9 @@ Cut order if time slips: the "where to learn" bullet first, then the two shares 
 ## 2. Tool landscape: Dhruv (assigned, to fill in by end of day Nov 11)
 
 Dhruv to provide bullet points, not a script:
-- ChatGPT and Claude desktop features that are accessible on mobile, with what is free and what needs an account.
-- Chatbot vs copilot vs agent: chatbot answers and waits; copilot helps inside an app; agent reads your apps and acts.
-- "Lowest tool that does the job." More power = more access = more damage if it goes wrong.
-- 2-minute desktop vs mobile contrast, with saved screenshots. No live desktop setup in the room.
-- Codex Spaces for document collaboration: include only if Dhruv confirms it is phone-usable in the room; otherwise cut it.
+- ChatGPT Work for agentic work on web
+- ChatGPT desktop app for agenetic work on local devices (with local files)
+- Dots + Spaces for multiplayer and work on documents and sheets
 
 ## 3. Prompting that works: Aditya (merged in PR #6, condensed here)
 
