@@ -138,18 +138,22 @@ def packet_page(kind):
                  'Draft only; nothing is sent, paid, deleted or publicly shared.', 51, y)
         assert y > 220, ('Agenda body overlaps QR area', y)
         heading('Connect with your coordinators on LinkedIn', 207, 10)
-        for name, slug, center in [
-            ('Aditya Singh', 'aditya-singh', 136),
-            ('Dhruv Gupta', 'dhruv-gupta', 306),
-            ('Vinit Shah', 'vinit-shah', 476),
+        for name, slug, center, role, company in [
+            ('Aditya Singh', 'aditya-singh', 136, 'Principal Applied AI Scientist', 'Capital One'),
+            ('Dhruv Gupta', 'dhruv-gupta', 306, 'Member of Technical Staff', 'OpenAI'),
+            ('Vinit Shah', 'vinit-shah', 476, 'Product Manager', 'Spotify'),
         ]:
             c.drawImage(str(ROOT / 'worksheets' / 'assets' / (slug + '-linkedin-qr.png')),
                         center - 35, 108, 70, 70, preserveAspectRatio=True, mask='auto')
             c.setFillColor(INK)
             c.setFont('Helvetica-Bold', 9)
             c.drawCentredString(center, 96, name)
+            c.setFont('Helvetica', 8)
+            c.drawCentredString(center, 83, role)
+            c.setFont('Helvetica-Oblique', 8)
+            c.drawCentredString(center, 71, company)
         c.setFont('Helvetica', 8)
-        c.drawCentredString(W / 2, 77, 'Scan a QR code to connect on LinkedIn.')
+        c.drawCentredString(W / 2, 54, 'Scan a QR code to connect on LinkedIn.')
     else:
         y = heading('Evaluation and Exit Card', 673, 18)
         y = text('Complete at minutes 37-45.', 51, y)
