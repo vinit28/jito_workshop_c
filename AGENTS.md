@@ -69,6 +69,14 @@ Unverified or unsuitable products cannot become attendee prerequisites.
 
 ## Safety must be teachable
 
+Current delivery decisions from Vinit: use the four-page `worksheets/Track-C-Workshop-Packet.pdf`
+without hand-in or collection instructions. Personal inbox connection is optional and participant-controlled;
+anyone declining may follow a willing neighbor who holds the phone and selects safe content.
+Do not require a demo account or describe one in the participant or facilitator PDFs. Apply the
+data and permission checks before use, no live sends or autonomous actions, and no employer
+account connections. These explicit human decisions supersede earlier synthetic-account-only
+participation wording below; fictional teaching examples remain suitable for paper discussion.
+
 Use fictional or synthetic data for every demo. Attendees may describe a real task on paper,
 but must sanitize it before entering anything into a tool. Never solicit employer/client records,
 personal identifiers, financial records, credentials, unreleased work, or confidential documents.

@@ -9,6 +9,11 @@ This is a practical career and productivity workshop, not a tour of every AI pro
 
 ## Start here
 
+For the current workshop delivery files, use [the print index](final/README.md):
+[participant packet](worksheets/Track-C-Workshop-Packet.pdf),
+[facilitator reference](final/facilitator-run-sheet.pdf), and [plan](final/plan.pdf).
+The proposal workflow below is historical planning context.
+
 1. Read [the shared contract](AGENTS.md) and [the source brief](docs/workshop-brief.md).
 2. Work in your folder below. Replace the starter with your own proposal using
    [the common template](templates/workshop-plan.md).

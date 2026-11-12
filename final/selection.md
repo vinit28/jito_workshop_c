@@ -10,6 +10,17 @@ Integration owner: Vinit Shah (proposed, not confirmed by the team).
 Alignment date and final freeze: end of day Nov 11, 2026, per the
 Nov 10 meeting; not yet met.
 
+## Current print decisions
+
+Vinit's latest instructions supersede the historical selections below: use one four-page packet,
+omit hand-in instructions, and let anyone declining email connection follow a willing neighbor.
+No account-demo wording in participant or facilitator PDFs. The final exercise has five five-minute
+parts, including document creation; its 25-minute block is reflected in the 45-minute agenda.
+All three LinkedIn QR codes appear at the bottom of the agenda. Current files and rebuild details
+are in `README.md`. Rehearsal evidence and each coordinator's approval remain unrecorded.
+
+The following comparison records earlier decisions, not current print instructions.
+
 ## How to select
 
 First check each proposal against the shared contract. Reject or repair segments that require
