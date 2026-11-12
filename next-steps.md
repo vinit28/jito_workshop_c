@@ -13,7 +13,7 @@ Before delivery, complete these remaining checks:
 - [ ] Rehearse all five exercise parts within 25 minutes and the whole run within 45 minutes.
 - [ ] Test willing-neighbor and paper participation without private screen sharing.
 - [ ] Scan the three QR codes on one printed sample, then print 200 four-page packets.
-- [ ] Record each coordinator's approval of the same version and assign collection/storage responsibility.
+- [ ] Record each coordinator's approval of the same version.
 
 ### Historical initial planning checklist
 

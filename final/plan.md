@@ -12,7 +12,7 @@ Two back-to-back rounds, 2:15-3:00 pm and 3:00-3:45 pm. Each has three independe
 
 ## One participant packet
 
-Print `worksheets/Track-C-Workshop-Packet.pdf`: agenda and coordinator QR codes; original final worksheet front; original final worksheet back; evaluation and exit card. Hand in the entire four-page packet. No separate take-home card. Do not collect email contents, generated documents or screenshots.
+Print `worksheets/Track-C-Workshop-Packet.pdf`: agenda and coordinator QR codes; original final worksheet front; original final worksheet back; evaluation and exit card.
 
 Use `final/facilitator-run-sheet.pdf` for coordinators. Editable sources and rebuild instructions are in `final/README.md`. Earlier worksheet exports in `final/worksheets/` are superseded.
 
@@ -35,7 +35,7 @@ Use `final/facilitator-run-sheet.pdf` for coordinators. Editable sources and reb
 - **27-32 | Part 4:** revise the prompt, compare two outputs, record why, tune once. Page 3.
 - **32-37 | Part 5:** map trigger, AI step, approval and destination; value and implications. Page 3.
 - **37-42 | Evaluation and guardrails:** five checks, data sort, AI slop, access review and disconnect. Page 4.
-- **42-45 | Wrap-up:** next step, measure, exit checks, whole-packet collection. Page 4.
+- **42-45 | Wrap-up:** next step, measure and exit checks. Page 4.
 
 <!-- pagebreak -->
 
@@ -51,7 +51,7 @@ Use `final/facilitator-run-sheet.pdf` for coordinators. Editable sources and reb
 
 Hypothesis: completing familiar work, checking it against explicit criteria, and defining an approval boundary produces a practical next-week experiment.
 
-Target: at least 80% of collected packets show a task and quality bar, one concrete revision with a measure, a human approval boundary, and a dated next step. Check written entries, not just ticks. People following a neighbor record their own reasoning. Distinguish generated, observed and paper-only completion when tallying.
+Target: at least 80% of participants report a task and quality bar, one concrete revision with a measure, a human approval boundary, and a dated next step. Use a brief show of hands at the close; it is self-reported completion, not independently verified performance. People following a neighbor record their own reasoning. Distinguish generated, observed and paper-only participation.
 
 Disconfirm success if most attendees only watch, cannot name a useful improvement, or believe inbox connection and all permissions are mandatory. Time saved is an estimate until measured including checking and correction.
 
@@ -59,12 +59,12 @@ Week 1: drafting. Week 2: summary or research with verification. Week 3: workflo
 
 ## Print and readiness
 
-- Participant packet: 200 copies, four US Letter pages each; 180 seats plus 20 spare. Split 66/67/67 across coordinators. Duplex, long-edge flip: two sheets per packet. Keep all pages together for collection.
+- Participant packet: 200 copies, four US Letter pages each; 180 seats plus 20 spare. Split 66/67/67 across coordinators. Duplex, long-edge flip: two sheets per packet.
 - Coordinator reference: one three-page run sheet each, plus a spare. Print single-sided for quick scanning. The two-page plan PDF is optional reference, not an attendee handout.
-- Back-to-back reset: keep second-round packets within reach, separate completed packets, reset the timer and close private screens. Do not rely on a break.
-- Before delivery: verify mobile permission/export/disconnect paths; test iPhone and Android where available; time a full rehearsal; test neighbor/no-network participation; assign prep communications and packet collection/storage.
+- Back-to-back reset: keep second-round packets within reach, reset the timer and close private screens. Do not rely on a break.
+- Before delivery: verify mobile permission/export/disconnect paths; test iPhone and Android where available; time a full rehearsal; test neighbor/no-network participation; assign prep communications.
 - All coordinators explicitly approve the version after rehearsal. A merged PR does not prove approval. Print formatting does not prove delivery readiness.
 
 ## Authority and sources
 
-`worksheets/Track-C-Worksheet-final.pdf` supplies the two unchanged exercise pages. The attached agenda/exit source is retained in `worksheets/source/`; its timing and collection wording are superseded by the packet. Vinit's current instructions govern optional willing-neighbor participation, compact QR placement, and whole-packet collection. Older proposals and exports are historical reference.
+`worksheets/Track-C-Worksheet-final.pdf` supplies the two unchanged exercise pages. The attached agenda/exit source is retained in `worksheets/source/`; its timing and hand-in wording are superseded by the packet. Vinit's current instructions govern optional willing-neighbor participation and compact QR placement. Older proposals and exports are historical reference.

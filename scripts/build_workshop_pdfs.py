@@ -136,7 +136,6 @@ def packet_page(kind):
         y = text('<b>Participation:</b> email connection is optional. Follow a willing neighbor if you prefer; '
                  'the owner holds the phone and chooses what to show. Use only non-sensitive material. '
                  'Draft only; nothing is sent, paid, deleted or publicly shared.', 51, y)
-        y = text('<b>At the end:</b> hand in the whole packet. Do not attach private emails or generated documents.', 51, y)
         assert y > 220, ('Agenda body overlaps QR area', y)
         heading('Connect with your coordinators on LinkedIn', 207, 10)
         for name, slug, center, url in [
@@ -154,7 +153,7 @@ def packet_page(kind):
         c.drawCentredString(W / 2, 77, 'Scan a code or click a name to connect.')
     else:
         y = heading('Evaluation and Exit Card', 673, 18)
-        y = text('Complete at minutes 37-45. Hand in the entire packet at the end.', 51, y)
+        y = text('Complete at minutes 37-45.', 51, y)
         y = text('Name (optional): ______________________________  Table: ______', 51, y)
         y = heading('A  Evaluate your tool and your judgment', y)
         y = text('Tick what you checked. If something failed, note why beside it.', 51, y)

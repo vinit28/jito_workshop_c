@@ -70,7 +70,7 @@ Unverified or unsuitable products cannot become attendee prerequisites.
 ## Safety must be teachable
 
 Current delivery decisions from Vinit: use the four-page `worksheets/Track-C-Workshop-Packet.pdf`
-and collect it as one packet. Personal inbox connection is optional and participant-controlled;
+without hand-in or collection instructions. Personal inbox connection is optional and participant-controlled;
 anyone declining may follow a willing neighbor who holds the phone and selects safe content.
 Do not require a demo account or describe one in the participant or facilitator PDFs. Apply the
 data and permission checks before use, no live sends or autonomous actions, and no employer

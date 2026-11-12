@@ -5,7 +5,7 @@ Coordinator reference | November 15, 2026 | Same version for all three cohorts
 ## Before each round
 
 - Rounds: 2:15 pm and 3:00 pm. Start a 45-minute countdown. Every coordinator delivers every segment independently. Have round-two packets ready before round one.
-- Give everyone the four-page packet. Pages 2-3 are the exercise, page 4 the exit card. Collect the whole packet, not personal emails, generated PDFs or screenshots.
+- Give everyone the four-page packet. Pages 2-3 are the exercise, page 4 the exit card.
 - Prepare a charged phone, tested app, timer, pens and paper. Check actual consent, export and disconnect screens before the event. Do not promise unverified controls. Hide notifications.
 - Keep the fictional teaching examples on page 3 of this sheet available on paper. They are authored examples, not captured model results.
 
@@ -42,7 +42,7 @@ Packet pages 2-3 | Five parts, five minutes each | Owner always holds the phone
 
 ## 12-17 Part 1 Prompt it | page 2
 
-- Choose a familiar task: email, summary, meeting-prep note or checklist. Keep sensitive text out of the app and the worksheet being collected.
+- Choose a familiar task: email, summary, meeting-prep note or checklist. Keep sensitive text out of the app and worksheet.
 - Write four parts and a checkable quality bar. Example: "Three actions with dates from my notes; flag missing dates rather than invent them."
 - For inbox participants, choose an appropriate email task. If sensitive, change tasks before showing anything.
 - Circulate: "Who is it for? What makes it useful? What must it not invent?" At minute 16, finish one usable prompt.
@@ -91,12 +91,11 @@ Packet page 4 | Finish at minute 45 | Keep safety and exit checks
 - 41-42: review connected access and show the tested disconnect path. If connection was only for this workshop, suggest revoking it now. Disconnecting does not delete already processed data. No one needs to show their account screen.
 - Debrief: employer approval matters even on a paid account; summaries miss urgency; polished answers invent facts; the human owns what is used or sent.
 
-## 42-45 Wrap-up and collection
+## 42-45 Wrap-up
 
 - 42-43: write a next step and date. Measure minutes including fixes, factual errors or edits needed. Choose a task, not "use AI more."
 - 43-44: Week 1 draft; Week 2 summarize/research; Week 3 workflow map. In week 4, repeat the best task and compare with the baseline. Use the next-step space for specifics.
-- 44-45: check exit boxes against written work. Collect whole packets, not phones or digital outputs. Generated artifacts remain privately on participants' devices.
-- Captains stack packets without reading personal entries aloud. Designate a coordinator for collection/storage. Do not upload participant writing to the public repo.
+- 44-45: attendees check exit boxes against their written work. Ask for a show of hands: who improved a task and has a dated next step? Treat this as self-reported completion. Do not read personal entries aloud.
 
 ## Paper example if access or network fails
 
@@ -111,5 +110,5 @@ Packet page 4 | Finish at minute 45 | Keep safety and exit checks
 - Cut extra product examples, prompt rounds and table reports first. Keep permission guidance, source checks and exit step. One revision beats repeated exports.
 - Unsafe material: stop kindly, do not repeat it, switch to appropriate content. Do not record the sensitive detail.
 - Setup failure: willing neighbor with owner control, appropriate text in an existing tool, or paper. No payment, laptop setup or mandatory account connection.
-- Round change: separate completed packets, set out fresh ones, reset timer and close private screens. Both rounds get the same version.
+- Round change: set out fresh packets, reset timer and close private screens. Both rounds get the same version.
 - Before calling this delivery ready: record permission/export/disconnect tests, timed rehearsal/fixes and each coordinator's approval. This sheet implies none of those checks are complete.

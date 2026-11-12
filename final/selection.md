@@ -13,7 +13,7 @@ Nov 10 meeting; not yet met.
 ## Current print decisions
 
 Vinit's latest instructions supersede the historical selections below: use one four-page packet,
-collect the entire packet, and let anyone declining email connection follow a willing neighbor.
+omit hand-in instructions, and let anyone declining email connection follow a willing neighbor.
 No account-demo wording in participant or facilitator PDFs. The final exercise has five five-minute
 parts, including document creation; its 25-minute block is reflected in the 45-minute agenda.
 All three LinkedIn QR codes appear at the bottom of the agenda. Current files and rebuild details
