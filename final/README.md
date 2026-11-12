@@ -17,7 +17,7 @@ The original exercise is preserved. Its "back" is page 3 in the new packet; prin
 
 ## Rebuild and verify
 
-Run `python3 scripts/build_workshop_pdfs.py` from the repo root with reportlab, pypdf and Poppler installed. It writes the packet and two coordinator PDFs. Render every page before printing. QR images are supplied by Vinit and embedded without alteration. Their payloads were decoded locally; codes and clickable names target:
+Run `python3 scripts/build_workshop_pdfs.py` from the repo root with reportlab, pypdf and Poppler installed. It writes the packet and two coordinator PDFs. Render every page before printing. QR images are supplied by Vinit and embedded without alteration. Their payloads were decoded locally; the printed codes target:
 
 - Aditya Singh: https://www.linkedin.com/in/adityas5/
 - Dhruv Gupta: https://www.linkedin.com/in/dhruv-gupta-dev/

@@ -108,7 +108,7 @@ def packet_page(kind):
         return text(s, 66, y, width=492, size=10)
 
     if kind == 'agenda':
-        y = heading('Track C Workshop Agenda', 673, 18)
+        y = heading('AI for Career and Productivity Workshop Agenda', 673, 18)
         y = text('AI for Career and Productivity | 45 minutes | November 15, 2026', 51, y)
         rows = [('Time', 'Segment', 'What you do'),
                 ('2 min', 'Intro', 'House rules and the goal'),
@@ -138,19 +138,18 @@ def packet_page(kind):
                  'Draft only; nothing is sent, paid, deleted or publicly shared.', 51, y)
         assert y > 220, ('Agenda body overlaps QR area', y)
         heading('Connect with your coordinators on LinkedIn', 207, 10)
-        for name, slug, center, url in [
-            ('Aditya Singh', 'aditya-singh', 136, 'https://www.linkedin.com/in/adityas5/'),
-            ('Dhruv Gupta', 'dhruv-gupta', 306, 'https://www.linkedin.com/in/dhruv-gupta-dev/'),
-            ('Vinit Shah', 'vinit-shah', 476, 'https://www.linkedin.com/in/vinit-shah/'),
+        for name, slug, center in [
+            ('Aditya Singh', 'aditya-singh', 136),
+            ('Dhruv Gupta', 'dhruv-gupta', 306),
+            ('Vinit Shah', 'vinit-shah', 476),
         ]:
             c.drawImage(str(ROOT / 'worksheets' / 'assets' / (slug + '-linkedin-qr.png')),
                         center - 35, 108, 70, 70, preserveAspectRatio=True, mask='auto')
             c.setFillColor(INK)
             c.setFont('Helvetica-Bold', 9)
             c.drawCentredString(center, 96, name)
-            c.linkURL(url, (center - 65, 91, center + 65, 178), relative=0, thickness=0)
         c.setFont('Helvetica', 8)
-        c.drawCentredString(W / 2, 77, 'Scan a code or click a name to connect.')
+        c.drawCentredString(W / 2, 77, 'Scan a QR code to connect on LinkedIn.')
     else:
         y = heading('Evaluation and Exit Card', 673, 18)
         y = text('Complete at minutes 37-45.', 51, y)
@@ -198,7 +197,7 @@ def main():
     for page in original.pages:
         writer.add_page(page)
     writer.add_page(packet_page('exit'))
-    writer.add_metadata({'/Title': 'Track C Workshop Packet', '/Author': 'Track C coordinators',
+    writer.add_metadata({'/Title': 'AI for Career and Productivity Workshop Packet', '/Author': 'Track C coordinators',
                          '/Subject': 'Agenda, final exercise, evaluation and exit card'})
     target = ROOT / 'worksheets/Track-C-Workshop-Packet.pdf'
     with target.open('wb') as out:
