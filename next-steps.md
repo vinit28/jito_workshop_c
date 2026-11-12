@@ -5,6 +5,18 @@ do not mark an item complete without evidence or an explicit coordinator decisio
 
 ## Before the next coordinator review
 
+Current print files and delivery decisions are indexed in `final/README.md`. The original planning
+checklist below predates the current packet; deck and synthetic-account tasks are superseded.
+Before delivery, complete these remaining checks:
+
+- [ ] Test phone sign-in, consent, briefing, PDF export and disconnect; record actual device and results.
+- [ ] Rehearse all five exercise parts within 25 minutes and the whole run within 45 minutes.
+- [ ] Test willing-neighbor and paper participation without private screen sharing.
+- [ ] Scan the three QR codes on one printed sample, then print 200 four-page packets.
+- [ ] Record each coordinator's approval of the same version and assign collection/storage responsibility.
+
+### Historical initial planning checklist
+
 - [x] **Confirm event format:** the event has two back-to-back sessions, each with three
   independently run cohorts using the same curriculum. Record cohort assignments and the ownership
   and handoff for the possible 10-minute case-study introduction in `final/selection.md` before

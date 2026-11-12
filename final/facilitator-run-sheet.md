@@ -1,271 +1,115 @@
-# Track C facilitator run sheet: coordinators only
+# Track C facilitator run sheet
 
-Not for attendees. This is the detailed run sheet each coordinator delivers
-from. The concise plan is `final/plan.md`. Do not read this sheet aloud.
-Talk in your own words, using the talking points below.
+Coordinator reference | November 15, 2026 | Same version for all three cohorts
 
-Event: JITO USA AI Summit, Track C, AI for Career and Productivity,
-Sunday, November 15, 2026. Two rounds, 2:15 and 3:00, each 45 minutes.
-Each coordinator runs one cohort of 30 alone, with their own 3 tables
-of about 10 to 11 people. Same plan, same worksheets, every round.
+## Before each round
 
-Promise to the room: leave able to put AI to work on Monday morning,
-on your own real tasks, and hand one of them to an agent safely.
+- Rounds: 2:15 pm and 3:00 pm. Start a 45-minute countdown. Every coordinator delivers every segment independently. Have round-two packets ready before round one.
+- Give everyone the four-page packet. Pages 2-3 are the exercise, page 4 the exit card. Collect the whole packet, not personal emails, generated PDFs or screenshots.
+- Prepare a charged phone, tested app, timer, pens and paper. Check actual consent, export and disconnect screens before the event. Do not promise unverified controls. Hide notifications.
+- Keep the fictional teaching examples on page 3 of this sheet available on paper. They are authored examples, not captured model results.
 
-## Kit checklist, per coordinator, before the first round
+## 00-02 Intro | packet page 1
 
-- 30 copies each of Worksheet 1, Worksheet 2, Worksheet 3, plus spares.
-- Printed synthetic Jordan Lee email (see demo inputs below).
-- Printed mock permission screen.
-- Weak vs strong email outputs as saved screenshots on your phone.
-- Risk cards for the green / yellow / red sort.
-- Printed fallbacks for no Wi-Fi (see fallbacks below).
-- Your own phone, charged, Muse logged in on a personal account only.
+- Say: "You will use AI on familiar work, judge the result, and leave with a method for next week."
+- "Use a personal account only. Email connection is optional. You may follow a willing neighbor, who holds their phone and chooses what is safe to show. Paper participation also counts."
+- "Nothing confidential goes into a tool. Nothing is sent, paid, deleted or publicly shared. Do not read private messages aloud."
+- Pick a timekeeper per table. Quick experience check; explain unfamiliar terms as needed. Do not move people between tables.
 
-## House rules, say these in the first 30 seconds
+## 02-07 Tool landscape | page 1
 
-- Phones only, personal accounts only, nothing confidential goes into
-  a tool, nothing is sent live.
-- Your phone stays in your hands. Nobody else holds it, including
-  during judging.
-- If you do not want to use your own inbox, use the Jordan Lee demo.
-  No reason needed, no questions asked.
+- Drafting/explaining: turn rough points into a reply or explain unfamiliar text. Give context and review the answer.
+- Finding/comparing: locate or organize information. Check source and date; a confident summary is not evidence itself.
+- Acting across apps: agents may use connected tools or carry out steps. Ask what they can read/change and where approval happens. Chat assistants can also have action tools; product labels do not define access.
+- Muse is the worked example; familiar chat tools can support text exercises. No feature, price or account entitlement claims from memory.
+- Relatable example: rough notes into decisions and actions. An invented deadline can be beautifully written and still wrong. Choose the simplest tool and smallest access for the job.
+- Desktop contrasts: brief mention only. No setup, account tour or new collaboration product in the core path.
 
-## Minute by minute
+## 07-12 Prompting | page 2
 
-### 00:00 to 02:00, Intro, Vinit
+- Point to Context, Intent, Format, Restrictions. "Situation, job, shape, boundaries. Then define what good looks like."
+- Weak: "Write an email about the review." Strong: "Our review moves from November 19 at 10 am to November 24 at 10 am. Ask for agenda confirmation by November 20. Write under 120 words; lead with the new date; use only these facts."
+- Quality bar: correct date/time, one request/deadline, no invented reason or promise, concise. Fictional dates and quantities are fine; confidential figures are not.
+- Circle one habit on page 2. Do not teach six separate mini-lessons. One relevant example is enough today.
+- "Ask the model to check the draft, then check it yourself against the source. Its self-check is not verification."
+- Before connection: "Read actual consent. Access may cover more than three selected messages. Decline if unsure. Personal inboxes can contain other people's sensitive data."
 
-- Say the promise, in your own words.
-- House rules (above).
-- Pick a table captain at each table. The captain keeps time and reads
-  the judge's verdict aloud.
-- Quick check: "Hands up if Muse is downloaded and logged in." Pair
-  anyone who is not with a neighbour; they still write on the worksheet.
-- Quick check 2: "Hands up if you are happy to use your own inbox
-  today." Anyone who is not uses the Jordan Lee demo.
+<!-- pagebreak -->
 
-### 02:00 to 08:00, Tool landscape, Dhruv
+# The 25 minute exercise
 
-Status: Dhruv to fill in by end of day Nov 11. Bullets, not a script.
-- ChatGPT and Claude desktop features that are accessible on mobile,
-  with what is free and what needs an account.
-- Chatbot vs copilot vs agent: chatbot answers and waits; copilot helps
-  inside an app; agent reads your apps and acts.
-- "Lowest tool that does the job." More power means more access, and
-  more damage if it goes wrong.
-- 2-minute desktop vs mobile contrast, with saved screenshots.
-  No live desktop setup in the room.
-- Codex Spaces: include only if Dhruv confirms it is phone-usable
-  in the room; otherwise cut it.
-- Attendees circle the category they use most and one to try.
-- If Dhruv's bullets do not arrive, fall back to the three categories
-  only: chatbot, copilot, agent, one example each, then move on.
-  Do not improvise tool claims. Do not claim a feature you have not
-  verified against the official source.
+Packet pages 2-3 | Five parts, five minutes each | Owner always holds the phone
 
-### 08:00 to 14:00, Prompting that works, Aditya
+## 12-17 Part 1 Prompt it | page 2
 
-Full detail in `prompting-section-outline.md` (v4, Nov 10).
-- "Prompting is a very smart person who does not know you. Your job
-  is to point them at your problem."
-- Four parts: context, intent, format, restrictions, plus one
-  "good looks like" line. That line is the core skill.
-- Build the client delay email live, in rounds, weak to strong:
-  Round 0, weak: "Write an email to a client about the delay."
-  Round 1: add context and intent.
-  Round 2: define good together. The "good looks like" line is:
-  "Under 120 words. Opens with the decision and the new date.
-  Names the one thing the client must do, and by when. No detail
-  I did not give you. Ends with the question I need answered."
-  Every clause can be ticked yes or no in ten seconds. Say that.
-  Round 3: add format and restrictions. Show weak and strong
-  side by side. No client name, no real number anywhere.
-- Six habits, from Anthropic's "Prompting best practices": give
-  context and say why; be specific, including what good looks
-  like; say what to do, not what not to do; show an example when
-  format matters; give it a role in one sentence; ask it to
-  check itself.
-- Two phone tricks: talk instead of type for a 60-second
-  brain-dump; end with "Ask me the questions you need answered
-  before you start" or "Improve my prompt, then run it."
-- Close: attendees circle one habit on the back of the prompt
-  card, next to the six habits, and write it in one line. That
-  is the habit they use in the combined exercise.
-- Prep before the event: run these prompts in a real chat app
-  and save the outputs as screenshots, so this segment needs
-  no Wi-Fi.
+- Choose a familiar task: email, summary, meeting-prep note or checklist. Keep sensitive text out of the app and the worksheet being collected.
+- Write four parts and a checkable quality bar. Example: "Three actions with dates from my notes; flag missing dates rather than invent them."
+- For inbox participants, choose an appropriate email task. If sensitive, change tasks before showing anything.
+- Circulate: "Who is it for? What makes it useful? What must it not invent?" At minute 16, finish one usable prompt.
 
-### 14:00 to 34:00, Combined exercise, one task throughout, Aditya + Vinit
+## 17-22 Part 2 Brief and draft | page 2
 
-One participant-selected task, from prompting to workflow mapping.
-Email is the default, not the only allowed task. Worksheet 2
-carries it. Keep the room together; do not let fast finishers
-start a second exercise.
+- Participants choosing inbox access select three non-sensitive messages. Ask: "For each, what do I need to know, when does it matter, and what do I do next? Use only the messages; flag missing dates."
+- Check summary against source, then draft the most urgent suitable reply. No sending. Write sanitized Know / When / Next notes and key draft lines.
+- Non-email participants run their chosen prompt. Those following a neighbor record their own observations. Owner controls what is visible; nobody browses another person's inbox.
+- Setup limit: one minute. Then use a willing neighbor, appropriate text in an existing app, or paper. Do not tell people to accept every permission.
 
-Part 1, prompt it, 14:00 to 19:00. Attendees write a prompt for
-a real email they need on Monday, sanitized, with the four parts
-and a "good looks like" line. If they have no email, they pick
-one of four weekly tasks: a tricky email or message; rough
-meeting notes into a clean summary; prep for a meeting or call;
-a short proposal, plan, or status update. End every prompt with
-"Keep it under 150 words." No names, clients, or numbers; use
-"Client A," "$X," "my manager."
+## 22-27 Part 3 Make a document | page 3
 
-Part 2, briefing then draft, 19:00 to 24:00. Attendees ask Muse
-to look at their 3 most recent emails in their own inbox and give
-a briefing for each one: what do I need to know, when do I need
-to know it, and what do I need to do next? Anyone who did not
-connect their inbox uses the Jordan Lee demo or the 3 sample
-emails on the board. Then they draft the most urgent one.
-Draft only. Stop before sending.
+- Make one one-page reference: style guide, recurring-task checklist, role cheat sheet or "how to work with me" guide. Reuse the chosen task/material where possible.
+- For the printed style-guide prompt, narrow "recent notes and emails" to selected non-sensitive samples. Do not invite unrestricted scanning. No suitable samples? Choose a checklist.
+- Prompt: "Using only selected material, make a one-page [reference]. Good looks like: [three checks]. Separate facts from suggestions; flag missing information."
+- Export to PDF if the tested path supports it. If export fails, use text on screen or a saved note. Do not spend the exercise fixing an exporter.
 
-Part 3, evaluate it, 24:00 to 29:00. This is the judging, and
-it runs exactly like this:
-1. Swap with your partner. The partner makes one change: add
-   missing context, sharpen the "good" line, or add "lead with
-   the decision" or "what should I verify?"
-2. The owner holds their own phone and shows both drafts on
-   screen, marked only "left" and "right," to a judge from the
-   next pair. The judge never takes the phone. The judge views
-   both drafts on the phone.
-3. The judge scores on the worksheet: which one they would
-   send, left or right, and why, in one line. The "why" line
-   includes a slop check: generic, invented, too long, or
-   delete it.
-4. Judge stretch, 60 seconds: the judge names the one change
-   that would make the losing version win.
-5. Read the winning draft out loud to the table.
-6. Short sharing session: one thing each table learned. The
-   table captain reads it out.
-7. Show of hands: improved, original, or could not tell. If
-   the original won, say so plainly: more is not always
-   better, and the "good" line is what decides.
+## 27-32 Part 4 Judge and improve | page 3
 
-Part 4, turn it into an agent, 29:00 to 34:00. Attendees design
-the agent for the same chore, in four boxes: Trigger, AI step,
-Human approval, Destination. Email first: summarize your emails,
-then draft or reply to 1 email. One value line ("saves me 30
-minutes a week") and one implications line ("it can read my
-inbox, so I will give it read-only, and I will check before it
-sends"). Facilitator shows the Muse permission screen on the
-synthetic account here, and stops before sending. Fast
-finishers add one constraint, for example "it must never send
-without me, and it must flag any email from a client I have
-not met."
+- 1 minute: partner suggests one prompt change aloud; owner enters it and creates version B of the same document.
+- 2 minutes: show only safe output to a willing judge. Owner keeps the phone. A/B can stand for left/right. Judge checks the quality bar and records one reason.
+- 1 minute: judge names the change that would make the weaker version useful. Look for invented facts, missing details, generic filler, needless length. Deleting weak output is valid.
+- 1 minute: owner tunes once. If regeneration is slow, write the revision. One voluntary sanitized table example only if time remains.
+- It is blinded only if the judge cannot identify the revision. Preference does not establish accuracy, model rankings or measured savings.
 
-### 34:00 to 40:00, Evaluation and guardrails, Vinit
+## 32-37 Part 5 Map the agent | page 3
 
-- "You just ran a blind test. That is how the leaderboards rank
-  AI models." LMArena ranks models by blind human votes.
-- AI slop spot check: generic content, invented detail,
-  unnecessary length, output that should be deleted rather
-  than fixed.
-- Five checks: does it do the job, is the output accurate, is
-  it fast enough, is the access narrow enough, would you trust
-  it with this task again?
-- Golden rule: personal data, financials, and unreleased work
-  never go into a public tool.
-- Main story: Samsung, 2023, employees pasting confidential
-  code and meeting notes into ChatGPT, then Samsung
-  restricting it.
-- Green / yellow / red sort on five items, tables call out
-  the colour.
-- Muse permission screen on the synthetic account: read-only
-  vs draft vs send, audit trail, disconnect. Anyone who
-  connected their own inbox disconnects it here, shown step
-  by step.
-- Verify before you send: *Mata v. Avianca* (lawyers
-  sanctioned for filing nonexistent ChatGPT cases) and
-  *Moffatt v. Air Canada* (company held responsible for its
-  chatbot's wrong fare). You own anything that leaves your desk.
+- Fill Trigger -> AI step -> Human approval -> Destination for a repeatable chore. This is a sketch, not a live automation build.
+- Example: selected new message -> summarize/draft -> I check facts, recipient and tone -> draft stays for approval. For a checklist task, map its weekly update instead.
+- Add estimated value and an implication. Include review/fix time. Ask: "What may it read/change? Where must it stop?"
+- Fast finishers add a stop rule: no sending, purchases or sharing without approval. At minute 37, turn to page 4.
 
-### 40:00 to 45:00, Wrap-up and 30-day plan, Vinit
+<!-- pagebreak -->
 
-- One line each: "My next step is ___ , by ___ ."
-- 30-day plan, one task a week: Week 1 drafting; Week 2
-  summarizing or research; Week 3 repetitive-task mapping.
-  Measure it: minutes saved or quality improved. Review
-  every output.
-- Tell your manager what changed, with one number, for
-  example a report that took 2 hours now takes 40 minutes.
-- Worksheet 1 is the take-home card, attendees keep it.
-  Worksheet 3 is collected at the door. Do not mix them up.
-- Exit card, target 80 percent or more: (1) a personal task
-  with a chosen tool and a written "good looks like"
-  definition; (2) one improvement with a measure; (3) a
-  value and implications line, with access narrowed;
-  (4) one next step.
+# Review and close
 
-## Demo inputs, exact
+Packet page 4 | Finish at minute 45 | Keep safety and exit checks
 
-Jordan Lee, Acme Services, fictional email. Use this exact text
-for the synthetic demo, and for anyone who does not use their
-own inbox:
-"Hi, I am Jordan Lee, project manager at Acme Services. Our
-project review was set for Thursday, November 19, at 10am.
-The client has asked to move it to the following week. Please
-draft an email to the client confirming the new date of
-Tuesday, November 24, at 10am, and asking them to confirm the
-agenda by Friday."
+## 37-42 Evaluation and guardrails
 
-Weak prompt (Round 0): "Write an email to a client about
-the delay."
-Strong prompt (Round 3): "I am Jordan Lee, project manager
-at Acme Services. I need to tell a client our project review
-has moved. Use this context: the review was Thursday,
-November 19, at 10am; the new date is Tuesday, November 24,
-at 10am; the client asked for the move. Return an email under
-120 words. Keep it warm and professional. Do not invent any
-dates or names. First give me a draft, then list what I
-should verify before using it."
+- 37-38: five checks. Does it do the job? Accurate against source? Fast including fixes? Appropriate access? Would you use it again for this task?
+- 38-39: AI slop. "What is generic, invented, repetitive or unnecessary? What would you delete?" Judge against the written quality bar.
+- 39-40: data sort. Public job posting: GREEN. Fictional meeting time: GREEN. Internal notes with unclear permission: YELLOW, check policy first. Client financial record: RED today. Password: RED. Ask for one reason.
+- 40-41: permission scenario. A tool asks to read all mail and send messages to draft one reply. "What would you decline or narrow?" Read-only still exposes content. Draft generation does not itself need sending rights. Use only consent choices actually shown.
+- 41-42: review connected access and show the tested disconnect path. If connection was only for this workshop, suggest revoking it now. Disconnecting does not delete already processed data. No one needs to show their account screen.
+- Debrief: employer approval matters even on a paid account; summaries miss urgency; polished answers invent facts; the human owns what is used or sent.
 
-Prepare the weak and strong outputs before the event by
-running these prompts in a real chat app and saving the
-outputs as screenshots. Do not invent the outputs in the room.
+## 42-45 Wrap-up and collection
 
-## Debrief questions, if a table is quiet
+- 42-43: write a next step and date. Measure minutes including fixes, factual errors or edits needed. Choose a task, not "use AI more."
+- 43-44: Week 1 draft; Week 2 summarize/research; Week 3 workflow map. In week 4, repeat the best task and compare with the baseline. Use the next-step space for specifics.
+- 44-45: check exit boxes against written work. Collect whole packets, not phones or digital outputs. Generated artifacts remain privately on participants' devices.
+- Captains stack packets without reading personal entries aloud. Designate a coordinator for collection/storage. Do not upload participant writing to the public repo.
 
-- "What did the losing version get wrong, in one line?"
-- "What would you have to change in the prompt to fix it?"
-- "What would you never paste into a tool, after today?"
-- "What is your one experiment for next week, and how will
-  you measure it?"
+## Paper example if access or network fails
 
-## Cut order if time slips
+- Fictional source: review moved from November 19, 10 am to November 24, 10 am. Agenda confirmation due November 20.
+- Weak: "We are thrilled to announce an exciting evolution of our collaboration. The review is now November 25 due to supplier delays. We will send a gift to thank you."
+- Better: "Our review is now November 24 at 10 am. Please confirm the agenda by November 20. Does the new time work for you?"
+- Ask which meets the date/request/no-invention checks. Cross out the invented date, reason and gift. Write an improved prompt. Make a checklist: verify date, confirm agenda, review recipient, stop before send.
+- These authored examples support paper practice; they are not evidence of a tested Muse run. Use them if personal screen sharing is unsuitable.
 
-1. The "where to learn" bullet first.
-2. Then the two shares at wrap-up.
-3. Then shorten Part 3 of the combined exercise, but keep the
-   judge's pick and the one-line why.
-Never cut guardrails or the blind judge. Never cut the
-disconnect step for anyone who connected their own inbox.
+## If time slips or something goes wrong
 
-## Fallbacks
-
-- Phones or Wi-Fi fail: rank four pre-printed prompts weakest
-  to strongest on paper, or spot the missing part (label C, I,
-  F, R, G on your partner's prompt and add the missing one).
-  Skip running the original and run only the improved prompt
-  to save 30 seconds.
-- Muse unavailable: run the same prompts in any free chat app
-  the attendee already has. The exercise does not depend on
-  one app.
-- No account: pair with a neighbour; they still write on the
-  worksheet.
-- Unsupported phone: pair with a neighbour; they still write
-  on the worksheet.
-- Participant brings unsafe data: stop them kindly, on the
-  spot. "Let us use a sanitized version. Change the name to
-  Client A and the number to $X." Do not let real client
-  data, financials, or credentials go into a tool.
-
-## What is still unverified, do not claim otherwise
-
-- Dhruv's tool landscape bullets have not arrived.
-- Codex Spaces has not been confirmed as phone-usable.
-- No coordinator has rehearsed the full 45 minutes yet.
-- No coordinator approval of this version is recorded yet.
-- Research-paper links in PR #6's prompting section are cited
-  from memory; check each link before printing.
-- Muse app links, free limits, and the Gmail connector have
-  not been verified against official sources in this version.
+- Cut extra product examples, prompt rounds and table reports first. Keep permission guidance, source checks and exit step. One revision beats repeated exports.
+- Unsafe material: stop kindly, do not repeat it, switch to appropriate content. Do not record the sensitive detail.
+- Setup failure: willing neighbor with owner control, appropriate text in an existing tool, or paper. No payment, laptop setup or mandatory account connection.
+- Round change: separate completed packets, set out fresh ones, reset timer and close private screens. Both rounds get the same version.
+- Before calling this delivery ready: record permission/export/disconnect tests, timed rehearsal/fixes and each coordinator's approval. This sheet implies none of those checks are complete.
